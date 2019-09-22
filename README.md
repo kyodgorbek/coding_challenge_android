@@ -34,3 +34,9 @@ You can open an [issue](https://github.com/motain/android_take_home_test/issues)
 ![](https://media.giphy.com/media/uADx98ByhpOwcE7KhW/giphy.gif)
 
 Have fun :rocket:!
+## Suggestion and Improvement
+1.Previously developer used adapter and viewholder in MainActivity which was so good but code was not so good usually I  suggested to create seperate adapter viewholderand implement that logic in NewsAdapter class
+2.inside the parseJsonString method you need to do parsing via Gson
+3.I have created model class NewsObject and Updated News class.
+4. Besides I have followed MVP design and getting json file from asset folder in NewsPresenter.kt
+
