@@ -1,4 +1,4 @@
-package com.onefootball.ui.adapters
+package com.onefootball.adapters
 
 import android.content.Intent
 import android.net.Uri

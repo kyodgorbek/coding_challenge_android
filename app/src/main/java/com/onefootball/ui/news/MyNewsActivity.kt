@@ -6,7 +6,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.onefootball.R
 import com.onefootball.model.News
-import com.onefootball.ui.adapters.NewsAdapter
+import com.onefootball.adapters.NewsAdapter
 
 
 class MyNewsActivity : AppCompatActivity(), NewsView {
